@@ -29,7 +29,6 @@
 
 ## About The Project
 
-![Screen Shot](https://64.media.tumblr.com/375eb8839a9842a2d38f6d5f24710d29/e55b6b23b215f88f-37/s1280x1920/a3eebed49d0354d8c169c8f63112e1a8823273e5.pnj)
 
 An expense tracker built using vanilla javascript to track your expenses dynamically.Expense Tracker, a powerful expense tracking web application . This comprehensive tool is designed to assist users in effectively managing their financial transactions, including earnings, expenses, investments, and savings.
 
